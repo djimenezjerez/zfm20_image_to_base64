@@ -1,0 +1,31 @@
+{
+  "name": "zfm20_image_to_base64",
+  "version": "1.0.0",
+  "description": "Adafruit's biometric fingerprint image to base64",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./test/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djimenezjerez/zfm20_image_to_base64.git"
+  },
+  "keywords": [
+    "zfm20",
+    "Adafruit",
+    "base64",
+    "biometric",
+    "fingerprint",
+    "sensor"
+  ],
+  "author": "Daniel Jimenez Jerez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djimenezjerez/zfm20_image_to_base64/issues"
+  },
+  "homepage": "https://github.com/djimenezjerez/zfm20_image_to_base64#readme",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "pngjs": "^3.3.3"
+  }
+}

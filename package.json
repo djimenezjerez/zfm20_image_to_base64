@@ -1,6 +1,6 @@
 {
-  "name": "zfm20_image_to_base64",
-  "version": "1.0.1",
+  "name": "zfm20image2base64",
+  "version": "1.0.2",
   "description": "Adafruit's biometric fingerprint image to base64",
   "main": "src/index.js",
   "scripts": {

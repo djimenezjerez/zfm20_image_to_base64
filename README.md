@@ -3,7 +3,7 @@
 To install
 
 ```
-npm i --save zfm20_image_to_base64
+npm i --save zfm20image2base64
 ```
 
 To test
@@ -17,7 +17,7 @@ npm test
 Require the library in your .js file:
 
 ```
-const img2Base64 = require('zfm20_image_to_base64');
+const img2Base64 = require('zfm20image2base64');
 ```
 
 Use the .convert method with the output of the image captured by the Adafruit's ZFM-20 sensor:
